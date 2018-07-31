@@ -14,3 +14,4 @@ public class App
 	public int calculateSomething() {
 		return 0;
 	}
+}
